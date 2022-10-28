@@ -20,6 +20,7 @@
 
 .example .background {
   height: 240px;
+  max-width: 800px;
   // ❗️❗️❗️ The path to images from a SASS file
   // is always the same as from the css folder.
   background-image: url('../images/logo.png');

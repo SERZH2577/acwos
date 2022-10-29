@@ -1,21 +1,21 @@
 {
-  "name": "NAME_REOPSITORY_NAME",
+  "name": "acwoss",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://serzh2577.github.io/NAME_REOPSITORY_NAME",
+  "homepage": "https://serzh2577.github.io/acwoss",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /NAME_REOPSITORY_NAME/"
+    "build": "parcel build src/*.html --public-url /acwoss/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serzh2577/NAME_REOPSITORY_NAME.git"
+    "url": "git+https://github.com/serzh2577/acwoss.git"
   },
   "keywords": [],
   "author": "eliarr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serzh2577/NAME_REOPSITORY_NAME/issues"
+    "url": "https://github.com/serzh2577/acwoss/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
